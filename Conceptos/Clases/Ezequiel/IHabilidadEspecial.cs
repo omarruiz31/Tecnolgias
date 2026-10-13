@@ -1,0 +1,4 @@
+interface IHabilidadEspecial
+{
+    void UsarHabilidad();
+}
