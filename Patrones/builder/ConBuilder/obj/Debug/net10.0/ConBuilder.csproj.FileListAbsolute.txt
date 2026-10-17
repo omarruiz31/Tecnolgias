@@ -1,0 +1,15 @@
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/bin/Debug/net10.0/ConBuilder
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/bin/Debug/net10.0/ConBuilder.deps.json
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/bin/Debug/net10.0/ConBuilder.runtimeconfig.json
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/bin/Debug/net10.0/ConBuilder.dll
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/bin/Debug/net10.0/ConBuilder.pdb
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.AssemblyInfoInputs.cache
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.AssemblyInfo.cs
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.csproj.CoreCompileInputs.cache
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.sourcelink.json
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.dll
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/refint/ConBuilder.dll
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.pdb
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ConBuilder.genruntimeconfig.cache
+/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/Debug/net10.0/ref/ConBuilder.dll
