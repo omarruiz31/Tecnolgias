@@ -8,5 +8,9 @@ class Taco(ABC):
         pass
 
     @abstractmethod
-    def costo(self) -> float:
+    def precio(self) -> float:
+        pass
+
+    @abstractmethod
+    def calorias(self) -> int:
         pass

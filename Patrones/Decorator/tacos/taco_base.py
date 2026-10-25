@@ -2,7 +2,7 @@ from taco import Taco
 
 class TacoBase(Taco):
     NOMBRE = ""
-    PRECIO = ""
+    PRECIO = 0.0
     CALORIAS = 0
 
     def descripcion(self) -> str:
