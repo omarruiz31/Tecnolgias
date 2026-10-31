@@ -7,6 +7,5 @@ class ParaLlevar(ExtraTaco):
 
     def precio(self) -> float:
         return self._taco.precio() + 5
-
-    def calorias(self) -> int:
-        return self._taco.calorias()
+    
+    
