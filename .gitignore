@@ -1,59 +1,95 @@
-# General
+# =========================
+# macOS
+# =========================
 .DS_Store
-.localized
-__MACOSX/
 .AppleDouble
 .LSOverride
-Icon[
-]
-
-# Resource forks
 ._*
-
-# Files and directories that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-.com.apple.timemachine.supported
-.PKInstallSandboxManager
-.PKInstallSandboxManager-SystemSoftware
-.hotfiles.btree
-.vol
-.file
-.disk_label*
-lost+found
-.HFS+ Private Directory Data[
-]
+.fseventsd
+__MACOSX/
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
+# =========================
+# IDEs / Editores
+# =========================
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# =========================
+# .NET / C#
+# =========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+project.assets.json
+project.nuget.cache
+
+# =========================
+# Java
+# =========================
+out/
+*.class
+*.jar
+*.war
+target/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# =========================
+# C / C++
+# =========================
+*.o
+*.obj
+*.out
+*.a
+*.so
+
+# =========================
+# Ruby
+# =========================
+*.gem
+.bundle/
+vendor/bundle/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.swp
+*~
+.DocumentRevisions-V100
+.TemporaryItems
 .apdisk
-
-# Mac OS 6 to 9
-Desktop DB
-Desktop DF
-TheFindByContentFolder
-TheVolumeSettingsFolder
-.FBCIndex
-.FBCSemaphoreFile
-.FBCLockFolder
-
-# Quota system
-.quota.group
-.quota.user
-.quota.ops.group
-.quota.ops.user
-
-# TimeMachine
-Backups.backupdb
-.MobileBackups
-.MobileBackups.trash
-MobileBackups.trash
-tmbootpicker.efi
