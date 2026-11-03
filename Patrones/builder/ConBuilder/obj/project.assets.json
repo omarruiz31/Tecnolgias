@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/ConBuilder.csproj",
+      "projectUniqueName": "/Users/omarruiz/Projects/Tecnologias/Patrones/builder/ConBuilder/ConBuilder.csproj",
       "projectName": "ConBuilder",
-      "projectPath": "/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/ConBuilder.csproj",
+      "projectPath": "/Users/omarruiz/Projects/Tecnologias/Patrones/builder/ConBuilder/ConBuilder.csproj",
       "packagesPath": "/Users/omarruiz/.nuget/packages/",
-      "outputPath": "/Users/omarruiz/Desktop/Tecnologias/Patrones/builder/ConBuilder/obj/",
+      "outputPath": "/Users/omarruiz/Projects/Tecnologias/Patrones/builder/ConBuilder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omarruiz/.nuget/NuGet/NuGet.Config"

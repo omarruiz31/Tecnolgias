@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omarruiz/Desktop/SOLID/SOLID/Open-Closed/Fabian/OCP.csproj": {}
+    "/Users/omarruiz/Projects/Tecnologias/SOLID/Open-Closed/Fabian/OCP.csproj": {}
   },
   "projects": {
-    "/Users/omarruiz/Desktop/SOLID/SOLID/Open-Closed/Fabian/OCP.csproj": {
+    "/Users/omarruiz/Projects/Tecnologias/SOLID/Open-Closed/Fabian/OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omarruiz/Desktop/SOLID/SOLID/Open-Closed/Fabian/OCP.csproj",
+        "projectUniqueName": "/Users/omarruiz/Projects/Tecnologias/SOLID/Open-Closed/Fabian/OCP.csproj",
         "projectName": "OCP",
-        "projectPath": "/Users/omarruiz/Desktop/SOLID/SOLID/Open-Closed/Fabian/OCP.csproj",
+        "projectPath": "/Users/omarruiz/Projects/Tecnologias/SOLID/Open-Closed/Fabian/OCP.csproj",
         "packagesPath": "/Users/omarruiz/.nuget/packages/",
-        "outputPath": "/Users/omarruiz/Desktop/SOLID/SOLID/Open-Closed/Fabian/obj/",
+        "outputPath": "/Users/omarruiz/Projects/Tecnologias/SOLID/Open-Closed/Fabian/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omarruiz/.nuget/NuGet/NuGet.Config"
